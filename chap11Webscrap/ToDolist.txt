@@ -1,0 +1,17 @@
+<문제>
+1. 아래 주소에 업로드 된 텍스트 파일을 다운받아 RomeoAndJuliets.txt에 저장해보시오
+'https://automatetheboringstuff.com/files/rj.txt'
+
+2. example.html 파일을 열어 객체로 저장하시오 (이름 exampleBS, 힌트: beatuifulsoup 모듈4를 사용)
+
+3. example.html 마크업 중 id가 author인 구문을 추출하시오
+
+4. example.html p 엘리먼트를 가진 문자를 추출하시오 (단, html태그는 제외하고 태그가 감싸는 텍스트만)
+
+5. example.html p 엘리먼트 구문을 추출하시오 (html 태그까지 포함)
+
+6. 시스템 인자로 넘겨준 텍스트를 바로 구글링한 후, 검색결과 상위 5개를 웹브라우저로 노출하는 구문을 만드시오.
+
+7. 특정 url에서 html구문을 가져와 텍스트파일로 변환하기까지의 과정을 모듈작동 관점에서 서술하시오.
+
+8. beautifulsoup로 텍스트를 html구문 객체로 가지고 있을 때 엘리먼트를 추출하는 메소드와 속성을 추출하는 메소드는 각각 무엇인가?
